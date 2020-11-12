@@ -1,0 +1,16 @@
+{
+  "name": "convertToMiles",
+  "version": "1.0.0",
+  "description": "See that function over there? It converts centimeters to  inches. I just looked up the simple conversion equation  for it and put it there. Run it. Easy, right?",
+  "main": "convertToMiles.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
